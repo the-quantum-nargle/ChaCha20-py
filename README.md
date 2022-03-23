@@ -6,10 +6,10 @@ This imeplentation uses:
 - 256bit randomised Key
 
 Todo:
-[x] Generate values for Nounce and Key
-[x] Implent functions for ARX cycle
-[x] Quarter Round Funciton
-[x] Generate Key Stream
-[] Option to add text stream to be XORed with key stream
-[] Make program more modular
+- [x] Generate values for Nounce and Key
+- [x] Implent functions for ARX cycle
+- [x] Quarter Round Funciton
+- [x] Generate Key Stream
+- [] Option to add text stream to be XORed with key stream
+- [] Make program more modular
 
