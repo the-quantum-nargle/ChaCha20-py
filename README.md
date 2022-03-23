@@ -10,6 +10,6 @@ Todo:
 - [x] Implent functions for ARX cycle
 - [x] Quarter Round Funciton
 - [x] Generate Key Stream
-- [] Option to add text stream to be XORed with key stream
-- [] Make program more modular
+- [ ] Option to add text stream to be XORed with key stream
+- [ ] Make program more modular
 
