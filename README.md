@@ -1,5 +1,5 @@
 # ChaCha20-py
-Python implementation of ChaCha20
+Python3 implementation of ChaCha20
 
 This imeplentation uses:
 - 2 * 32 bits nounce sub-blocks and 2*32 bits coutner sub-blocks in the ASCII space. These values are randomised on each run.
